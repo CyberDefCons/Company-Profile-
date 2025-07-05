@@ -8,7 +8,7 @@ Welcome to Cyber Defense Consultancy, a leading provider of cybersecurity, AI se
 
 🚀 Who We Are
 
-Cyber Defense Consultancy is a Zimbabwe-based, globally focused firm offering remote and on-site cybersecurity solutions. We specialize in delivering risk-driven strategies, AI-secure architectures, and compliance services tailored to modern digital threats.
+Cyber Defense Consultancy, part of the Microsoft for Startups Founders Hub, is a globally focused firm offering remote and on-site cybersecurity solutions. We specialize in delivering risk-driven strategies, AI-secure architectures, and compliance services tailored to modern digital threats.
 
 ---
 
