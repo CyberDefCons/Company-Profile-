@@ -62,7 +62,7 @@ To enable secure digital transformation by delivering innovative cybersecurity a
 📬 Get In Touch
 
 - 🌐 Website: [cyberdefenseconsultancy.com](https://cyberdefenseconsultancy.com)  
-- 📧 Email: [enquiries@cyberdefenseconsultancy.com] (enquiries@cyberdefenseconsultancy.com)  
+- 📧 Email: [enquiries@cyberdefenseconsultancy.com]  
 
 🧭 Want to Collaborate?
 
