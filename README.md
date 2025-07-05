@@ -41,18 +41,17 @@ Cyber Defense Consultancy, part of the Microsoft for Startups Founders Hub, is a
 
 ## 🛠️ Tools & Technologies
 
-![Azure](https://img.shields.io/badge/Azure-Security-blue)  
-![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20Engineer-green)  
+![Azure](https://img.shields.io/badge/Azure-Security-blue)    
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-orange)  
 ![Fortinet](https://img.shields.io/badge/Fortinet-Partner-red)  
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-MSP-lightgrey)
 
 - GenAI Governance Framework  
-  > Developed a risk-based LLM governance playbook for fintech startup  
+  > Developed a risk-based LLM governance playbook for a fintech startup  
   > Tech: Azure OpenAI, LangChain, Guardrails
 
 - Cyber Risk Scoring SaaS for SMEs  
-  > No-code risk scoring tool deployed on static site linked to Payhip for monetization  
+  > No-code risk scoring tool deployed on a static site linked to Payhip for monetization  
   > Tech: Python, Streamlit, Notion API
 
 🧭 Our Mission
